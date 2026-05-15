@@ -44,4 +44,4 @@ Durante o desenvolvimento deste projeto, foram praticados:
 
 ## 🌐 Acesse o projeto
 
-👉 https://abnerlevy.github.io/Print-Function-Browser/
+👉 https://abnerlevy.github.io/jogo_do_numero_secreto/
